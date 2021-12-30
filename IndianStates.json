@@ -1,0 +1,268 @@
+[
+    {
+        "longitude": 78.9629,
+        "latitude":20.5937 ,
+        "state": "India",
+        "statecode": "IN",
+        "statenotes": ""
+    },
+    {
+        "longitude": 92.73598262,
+        "latitude":11.66702557 ,
+        "state": "Andaman and Nicobar Islands",
+        "statecode": "AN",
+        "statenotes": ""
+    },
+    {
+        "longitude": 78.57002559,
+        "latitude":14.7504291 ,
+        "state": "Andhra Pradesh",
+        "statecode": "AP",
+        "statenotes": ""
+    },
+    {
+        "longitude": 93.61660071,
+        "latitude":27.10039878 ,
+        "state": "Arunachal Pradesh",
+        "statecode": "AR",
+        "statenotes": "[July 25]: All numbers corresponding to Papum Pare and Captial Complex are tracked under Papum Pare district."
+    },
+    {
+        "longitude": 92.537842,
+        "latitude": 26.244156,
+        "state": "Assam",
+        "statecode": "AS",
+        "statenotes": "[Jan 1]: 1347 cases i.e Covid +'tive patients dead for other reasons have been deducted fom active count."
+    },
+    {
+        "longitude": 87.4799727,
+        "latitude":25.78541445 ,
+        "state": "Bihar",
+        "statecode": "BR",
+        "statenotes": "[June 9] : 3951 deceased cases have been reported in the bulletin after reconciliation of records by the authorities"
+    },
+    {
+        "longitude": 76.78000565,
+        "latitude":30.71999697 ,
+        "state": "Chandigarh",
+        "statecode": "CH",
+        "statenotes": ""
+    },
+    {
+        "longitude": 81.828232,
+        "latitude": 21.295132,
+        "state": "Chhattisgarh",
+        "statecode": "CT",
+        "statenotes": ""
+    },
+    {
+        "longitude": 73.0166178,
+        "latitude": 20.26657819,
+        "state": "Dadra and Nagar Haveli and Daman and Diu",
+        "statecode": "DN",
+        "statenotes": ""
+    },
+    {
+        "longitude":77.23000403 ,
+        "latitude": 28.6699929,
+        "state": "Delhi",
+        "statecode": "DL",
+        "statenotes": "[July 14]: Value for the total tests conducted has been reduced by 97008 in the state bulletin. Reason given : \"Reconciled with ICMR figures\". We have made the same change."
+    },
+    {
+        "longitude": 73.81800065,
+        "latitude":15.491997 ,
+        "state": "Goa",
+        "statecode": "GA",
+        "statenotes": ""
+    },
+    {
+        "longitude": 72.136230,
+        "latitude": 22.309425,
+        "state": "Gujarat",
+        "statecode": "GJ",
+        "statenotes": ""
+    },
+    {
+        "longitude": 76.040497,
+        "latitude": 29.065773,
+        "state": "Haryana",
+        "statecode": "HR",
+        "statenotes": ""
+    },
+    {
+        "longitude": 77.571167,
+        "latitude": 32.084206,
+        "state": "Himachal Pradesh",
+        "statecode": "HP",
+        "statenotes": ""
+    },
+    {
+        "longitude": 74.46665849,
+        "latitude":34.29995933 ,
+        "state": "Jammu and Kashmir",
+        "statecode": "JK",
+        "statenotes": ""
+    },
+    {
+        "longitude": 86.41998572,
+        "latitude":23.80039349 ,
+        "state": "Jharkhand",
+        "statecode": "JH",
+        "statenotes": ""
+    },
+    {
+        "longitude": 75.713890,
+        "latitude": 15.317277,
+        "state": "Karnataka",
+        "statecode": "KA",
+        "statenotes": ""
+    },
+    {
+        "longitude": 76.271080,
+        "latitude": 10.850516,
+        "state": "Kerala",
+        "statecode": "KL",
+        "statenotes": ""
+    },
+    {
+        "longitude":77.5619 ,
+        "latitude":34.2268 ,
+        "state": "Ladakh",
+        "statecode": "LA",
+        "statenotes": ""
+    },
+    {
+        "longitude": 72.63686717,
+        "latitude":10.56257331 ,
+        "state": "Lakshadweep",
+        "statecode": "LD",
+        "statenotes": ""
+    },
+    {
+        "longitude": 77.947998,
+        "latitude": 23.473324,
+        "state": "Madhya Pradesh",
+        "statecode": "MP",
+        "statenotes": "[14 Oct'20]: 4469 confirmed cases and 4469 recoveries added in MP bulletin as reconciliation with private labs and hospitals\n[12 July'21] :1478 deceased cases have been added after reconciliation of deceased cases records from Home Isolation(208), Private Hospitals(762) and other districts data (508)"
+    },
+    {
+        "longitude": 75.300293,
+        "latitude": 19.663280,
+        "state": "Maharashtra",
+        "statecode": "MH",
+        "statenotes": "[Dec 16]:10,218 duplicate cases & other state cases removed from total cases.791 recovered cases also removed from total recovered cases while reconciling \n[Sep 9] :239 cases have been removed from the hospitalized figures owing to the removal of duplicates and change of addresses as per the original residence\n[Aug 15] : MH bulletin has reduced 819 confirmed cases in Mumbai and 72 confirmed cases from 'Other States' from the tally\n[Jun 16] : 1328 deceased cases have been retroactively added to MH bulletin.\n[Jun 20] : 69 deceased cases have been reduced based on state bulletin."
+    },
+    {
+        "longitude":93.95001705 ,
+        "latitude":24.79997072 ,
+        "state": "Manipur",
+        "statecode": "MN",
+        "statenotes": "[Dec 14]:824 out of 980 recovered cases are backdated."
+    },
+    {
+        "longitude": 91.8800142,
+        "latitude": 25.57049217,
+        "state": "Meghalaya",
+        "statecode": "ML",
+        "statenotes": ""
+    },
+    {
+        "longitude": 92.72001461,
+        "latitude": 23.71039899,
+        "state": "Mizoram",
+        "statecode": "MZ",
+        "statenotes": ""
+    },
+    {
+        "longitude": 94.11657019,
+        "latitude":25.6669979 ,
+        "state": "Nagaland",
+        "statecode": "NL",
+        "statenotes": ""
+    },
+    {
+        "longitude": 84.803467,
+        "latitude": 20.940920,
+        "state": "Odisha",
+        "statecode": "OR",
+        "statenotes": "[July 12th] :20 non-covid deaths reported in state dashboard are included in the deceased count"
+    },
+    {
+        "longitude": 79.83000037,
+        "latitude": 11.93499371,
+        "state": "Puducherry",
+        "statecode": "PY",
+        "statenotes": ""
+    },
+    {
+        "longitude":75.98000281 ,
+        "latitude":31.51997398 ,
+        "state": "Punjab",
+        "statecode": "PB",
+        "statenotes": ""
+    },
+    {
+        "longitude": 73.432617,
+        "latitude": 27.391277,
+        "state": "Rajasthan",
+        "statecode": "RJ",
+        "statenotes": ""
+    },
+    {
+        "longitude": 88.6166475,
+        "latitude":27.3333303 ,
+        "state": "Sikkim",
+        "statecode": "SK",
+        "statenotes": ""
+    },
+    {
+        "longitude": 90,
+        "latitude": 90,
+        "state": "State Unassigned",
+        "statecode": "UN",
+        "statenotes": ""
+    },
+    {
+        "longitude": 78.387451,
+        "latitude": 11.059821,
+        "state": "Tamil Nadu",
+        "statecode": "TN",
+        "statenotes": "[June 29 2021]: TN has introduced a new district \"Mayiladuthurai\" in the bulletin and has assigned cases from Nagapattinam to the new district.\n[July 22]: 444 backdated deceased entries added to Chennai in TN bulletin.\n2 deaths cross notified to other states from Chennai and Coimbatore.\n1 patient died after turning negative for infection in Chengalpattu.\nThese cases have been added to TN deceased tally"
+    },
+    {
+        "longitude": 79.208824,
+        "latitude": 17.123184,
+        "state": "Telangana",
+        "statecode": "TG",
+        "statenotes": "[July 27] : Telangana bulletin for the previous day is released on the next day. We will add the cases for Telangana against the date of release, as that is the convention that we are following for other states."
+    },
+    {
+        "longitude":91.27999914 ,
+        "latitude": 23.83540428,
+        "state": "Tripura",
+        "statecode": "TR",
+        "statenotes": "[Aug 4]: Tripura bulletin for the previous day is released on the next day. We will add the cases for Tripura against the date of release, as that is the convention that we are following for other states."
+    },
+    {
+        "longitude": 79.826660,
+        "latitude": 28.207609,
+        "state": "Uttar Pradesh",
+        "statecode": "UP",
+        "statenotes": "[Jan 1]:As no bulletin was provided for 31'st Dec'20,its count has been combined with 1st Jan'21\n[Jan 9]:Due to reconcillation there are 1286 cases."
+    },
+    {
+        "longitude": 79.0193,
+        "latitude": 30.0668,
+        "state": "Uttarakhand",
+        "statecode": "UT",
+        "statenotes": "[Oct 30]: Metric of capturing the testing data has switched to \"Samples Tested\" from \"Samples Collected\"\n[Jun 30th'21]:145 confirmed cases and 218 deceased cases added of previous days after reconciliation with district and ICMR portal"
+    },
+    {
+        "longitude": 87.747803,
+        "latitude": 22.978624,
+        "state": "West Bengal",
+        "statecode": "WB",
+        "statenotes": ""
+    }
+]

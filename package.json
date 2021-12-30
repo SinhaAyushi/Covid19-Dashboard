@@ -1,0 +1,15 @@
+{
+  "name": "corona-dashboard",
+  "version": "1.0.0",
+  "description": "This is a covid dashoboard showing covid cases on world map ",
+  "main": "index.js",
+  "dependencies": {
+    "node-fetch": "^2.6.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Pratik Kumar",
+  "license": "ISC"
+}
